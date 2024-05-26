@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari:wght@100;400;700&family=Syncopate:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Manjari, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    
+}
+header {
+    background-color:  rgb(221, 160, 221);
+    padding: 10px 4px 2px 4px;
+    color: #ffffff;
+}
+
+img {
+    padding: 6px;
+    transition: 0.30s;
+}
+
+img:hover {
+    border: 10px;
+    background-color: rgb(108, 0, 108);
+    border-radius: 5PX;
+    
+}
